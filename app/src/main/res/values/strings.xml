@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ActivityNewYorkTimesApi</string>
+    <string name="searchText">Search...</string>
+</resources>
